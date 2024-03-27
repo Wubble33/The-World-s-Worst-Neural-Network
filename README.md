@@ -1,4 +1,4 @@
-BEHOLD! The worst (definitly the mopst useless) neural network of all time!
+BEHOLD! The worst (definitly the most useless) neural network of all time!
 
 After trianing the AI on a few thousand numbers, it will be able to detect wich number you put into the system.
 For years, programmers have alwyas wondered what four is equal to. Now, with the power of this AI, We can finally determine that four is actually equal to four! GENIUS!!!!!!
